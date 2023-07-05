@@ -3,3 +3,11 @@ div{
     padding: 20px;
     margin-bottom: 15px;
 }
+#github{
+    text-align: left;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: larger;
+    text-decoration: underline;
+}
+
